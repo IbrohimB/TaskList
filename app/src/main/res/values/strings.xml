@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="place_holder" />
+    <string name="checkbox">CheckBox</string>
+</resources>
